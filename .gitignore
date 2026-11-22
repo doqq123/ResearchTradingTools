@@ -1,0 +1,5 @@
+.venv/
+.venv1/
+.idea/
+__pycache__/
+xauusd_part1/
